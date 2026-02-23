@@ -1,6 +1,6 @@
 🛰️ SPHY Solar System - Orbital Dynamics & Telemetry Auditor
 
-This repository contains the visualization and data analysis ecosystem for the SPHY Engine. The project focuses on the physical auditing of complex orbital trajectories over a 20,000-frame dataset, comparing SPHY's unique physics engine results against classical Newtonian mechanics.
+This repository contains the visualization and data analysis ecosystem for the SPHY Engine. The project focuses on the physical auditing of complex orbital trajectories over a 2,000-frame dataset, comparing SPHY's unique physics engine results against classical Newtonian mechanics.
 📂 Repository Contents
 1. telemetria_solar_sphy.parquet
 
